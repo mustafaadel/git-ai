@@ -1,0 +1,23 @@
+tests/integration/ignore_unit.rs
+  s_8077a730bab8a0::t_43ff9e9feb70c2 3,5,302-382,446-449
+src/authorship/ignore.rs
+  s_8077a730bab8a0::t_87ca65611295e6 43-63,75-86,93-98,105-108,110-126,159-165,170,172,174-175,177,179-194,196-201,203-221,223-247,249,255,273-275,335-344,350-352,357-359,595-691
+src/commands/checkpoint_agent/bash_tool.rs
+  s_8077a730bab8a0::t_cee6b16f6192e1 8,477-478,483
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "f7ef2dbbb87b07dfead749cea679fe9d15db3bfe",
+  "prompts": {},
+  "sessions": {
+    "s_8077a730bab8a0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "79dd9a5a-487f-4764-a14e-0d127a86df85",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "FAWRY\\Mostafa.Adel <mostafa.adel@fawry.com>"
+    }
+  }
+}
